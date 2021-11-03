@@ -26,7 +26,7 @@ Given my experience with HEN, [kiwidog](https://github.com/kiwidoggie) asked for
 
 I often collaborate with other ps4 devs like [ChendoChap](https://github.com/ChendoChap) with whom we have added [rest mode](https://github.com/ChendoChap/jkpatch/commit/0393c855867b4e8a39fd73c98bd802483a639487) support on [jkpatch](https://github.com/ChendoChap/jkpatch), father of [ps4debug](https://github.com/jogolden/ps4debug) by [golden](https://github.com/jogolden).
 
-### GoldHEN
+### [GoldHEN](https://github.com/GoldHEN)
 
 Lately I have concentrated all my experiences to design and implement a new HEN, GoldHEN, which tries to solve some of the various problems born especially in the latest firmware. After some people requests, I integrated a persistent [FTP](https://github.com/xvortex/ps4-ftp-vtx) to HEN.
 The project is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
