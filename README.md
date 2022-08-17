@@ -41,4 +41,4 @@ I haven't stopped my passion to go on and in my little free time I am adding oth
 
 ### Donations
 
-I have created an account on [ko-fi](https://ko-fi.com/SiSTRo) if you like my works and want to support me :smiley:
+I have created an account on [ko-fi](https://ko-fi.com/SiSTRo) and a [GitHub Sponsorship](https://github.com/sponsors/SiSTR0) if you like my works and want to support me :smiley:
