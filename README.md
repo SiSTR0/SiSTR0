@@ -35,7 +35,7 @@ The project is currently private because over time I have seen a sad abuse of th
 
 Another interest of mine was to modify the Shell UI and so I started a working POC about how to inject code inside [Mono](https://www.mono-project.com/). Due to the short time I could devote to the project, I passed this on to some other interested devs of the scene such as [Znullptr](https://github.com/dmiller423) and [Seremo](https://github.com/seremo), the latter with great skill managed to make great progress but unfortunately still private at the moment.
 With great pleasure, perhaps stimulated by my little POC inside GoldHEN, [OSM](https://github.com/OSM-Made) created an interesting open source project called [Orbis Toolbox](https://github.com/OSM-Made/Orbis-Toolbox). 
-He also wrote some excellent [writeups](https://www.hackingadventures.ca/blog) that I invite you to read (thanks for quote [me](https://www.hackingadventures.ca/blog/ps4-mono-ui-part-2#block-yui_3_17_2_1_1625803114290_4093) :wink: )
+He also wrote some excellent [writeups](https://web.archive.org/web/20210709222729/https://www.hackingadventures.ca/blog/ps4-mono-ui-part-2) that I invite you to read (thanks for quote [me](https://web.archive.org/web/20210709222729/https://www.hackingadventures.ca/blog/ps4-mono-ui-part-2#block-yui_3_17_2_1_1625803114290_4093) :wink: )
 
 I haven't stopped my passion to go on and in my little free time I am adding other interesting and useful features on GoldHEN, so stay tune!
 
